@@ -12,9 +12,11 @@ venv_riego\Scripts\activate
 python3 -m venv venv_riego
 source venv_riego/bin/activate
 📦 Paso 3: Instalar las dependencias
-Ejecuta:
+Entrar a la carpeta backend y ejecutar:
+cd backend
 python -m pip install -r requirements.txt
 ⚙️ Paso 4: Migrar la base de datos
+python manage.py makemigrations
 python manage.py migrate
 🚀 Paso 5: Ejecutar el servidor de desarrollo
 python manage.py runserver
