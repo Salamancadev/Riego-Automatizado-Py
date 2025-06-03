@@ -2,7 +2,7 @@
 📝 Guía para iniciar el entorno de pruebas del proyecto Django
 🔁 Paso 1: Clonar el repositorio
 Abre una terminal (PowerShell o CMD) y clona el proyecto:
-git clone git@github.com:Salamancadev/Riego-Automatizado-Py.git
+git clone [git@github.com:Salamancadev/Riego-Automatizado-Py.git](https://github.com/Salamancadev/Riego-Automatizado-Py.git)
 cd proyecto-riego
 🐍 Paso 2: Crear y activar el entorno virtual
 🔹 En Windows (CMD o PowerShell):
